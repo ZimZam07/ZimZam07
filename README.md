@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Zimran 👋
 
-<!--
-**ZimZam07/ZimZam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 AI Research Intern @ Rezolve AI  
+🎓 Computer Science Student  
+🤖 Passionate about AI, Machine Learning & Software Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Exploring
+- AI Research & Feasibility Analysis
+- API Integrations & Proof of Concepts (POCs)
+- Machine Learning Applications
+- Data Structures & Algorithms
+
+## 🛠️ Tech Stack
+**Languages:** Python • C++ • Java • SQL
+
+**AI/ML:** Linear Regression • Logistic Regression • Decision Trees • Random Forest • KNN • SVM • Neural Networks
+
+**Development:** Android Development • REST APIs • Git/GitHub • Database Management
+
+## 🌟 Featured Projects
+- 🤖 AI Powered Fitness Assistant
+- 💰 SpendSense Subscription Tracker
+- 🔎 Lost & Found Management System
+- 📱 Android & Software Development Projects
+
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/zimran-ullah
+- Email: zimranullahsjc1999@gmail.com
+
+> Building solutions, learning continuously, and exploring emerging technologies.
