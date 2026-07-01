@@ -22,7 +22,7 @@
 ## 🌟 Featured Projects
 - 🤖 AI Powered Fitness Assistant
 - 💰 SpendSense Subscription Tracker
-- 🔎 Lost & Found Management System
+- 🔎 JIIT Lost & Found Management System (live website for my college campus)
 - 📱 Android & Software Development Projects
 
 ## 📫 Connect
